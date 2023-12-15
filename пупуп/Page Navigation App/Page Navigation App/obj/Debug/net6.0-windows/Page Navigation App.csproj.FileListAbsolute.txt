@@ -311,3 +311,72 @@ D:\курсовая\hi-newww (1)\hi-newww\Page Navigation App\Page Navigation Ap
 D:\курсовая\hi-newww (1)\hi-newww\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Page Navigation App.pdb
 D:\курсовая\hi-newww (1)\hi-newww\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Page Navigation App.genruntimeconfig.cache
 D:\курсовая\hi-newww (1)\hi-newww\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\ref\Page Navigation App.dll
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Page Navigation App.exe
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Fonts\RubikBubbles-Regular.ttf
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\albums.png
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\artists.png
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\back.png
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\aboutLabel.png
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\back1.png
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\backboll.jpg
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\backboll.svg
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\backk.jpg
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\back_main.svg
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\boll.png
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\boll.svg
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\bolldown.png
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\bollup.png
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\help.png
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\home.png
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\left.svg
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\left_main.svg
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\rating.png
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\settings.png
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\shutdown_def.png
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Images\shutdown_mo.png
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Page Navigation App.deps.json
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Page Navigation App.runtimeconfig.json
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Page Navigation App.dll
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\bin\Debug\net6.0-windows\Page Navigation App.pdb
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Page Navigation App.csproj.AssemblyReference.cache
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Styles\Button.baml
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Styles\Image.baml
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Styles\Page.baml
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Styles\Text.baml
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\AboutLabels.g.cs
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\AddArtist.g.cs
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Albums.g.cs
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Artists.g.cs
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Helps.g.cs
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Home.g.cs
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\MusicAlbum.g.cs
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Ratings.g.cs
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Settings.g.cs
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\App.g.cs
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Page Navigation App_Content.g.cs
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Page Navigation App_MarkupCompile.cache
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Page Navigation App_MarkupCompile.lref
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\App.baml
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Utilities\DataTemplate.baml
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\AboutLabels.baml
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\AddArtist.baml
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Albums.baml
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Artists.baml
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Helps.baml
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Home.baml
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\MusicAlbum.baml
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Ratings.baml
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\View\Settings.baml
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Page Navigation App.g.resources
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Page Navigation App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Page Navigation App.AssemblyInfoInputs.cache
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Page Navigation App.AssemblyInfo.cs
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Page Navigation App.csproj.CoreCompileInputs.cache
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Page Navigation App.dll
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\refint\Page Navigation App.dll
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Page Navigation App.pdb
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\Page Navigation App.genruntimeconfig.cache
+C:\Learning\Marina\Ruslan\пупуп\Page Navigation App\Page Navigation App\obj\Debug\net6.0-windows\ref\Page Navigation App.dll

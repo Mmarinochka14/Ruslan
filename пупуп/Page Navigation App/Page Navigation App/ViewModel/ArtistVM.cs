@@ -5,8 +5,8 @@ namespace Page_Navigation_App.ViewModel
 {
     class ArtistVM : ViewModelBase
     { 
-        private ObservableCollection<Artist> artists;
-        private AddArtistVM addArtistViewModel;
+        private ObservableCollection<Artist> artists = new ObservableCollection<Artist>();
+        private AddArtistVM addArtistViewModel = new AddArtistVM();
 
         public ObservableCollection<Artist> Artists
         {
@@ -36,8 +36,7 @@ namespace Page_Navigation_App.ViewModel
 
         public ArtistVM()
         {
-            Artists = new ObservableCollection<Artist>();
-            AddArtistVM = new AddArtistVM();
+
             AddArtistVM.ArtistAdded += AddArtistViewModel_ArtistAdded;
         }
 

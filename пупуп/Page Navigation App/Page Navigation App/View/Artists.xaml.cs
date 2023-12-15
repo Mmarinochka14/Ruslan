@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Reflection.Metadata;
 using System.Text;
@@ -18,6 +19,7 @@ namespace Page_Navigation_App.View
 {
     public partial class Artists : UserControl
     {
+        private ObservableCollection<Artist> artists = new ObservableCollection<Artist>();
         public Artists()
         {
             InitializeComponent();
@@ -31,7 +33,7 @@ namespace Page_Navigation_App.View
 
         private void ListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-
+            Content = artists;
         }
     }
 }

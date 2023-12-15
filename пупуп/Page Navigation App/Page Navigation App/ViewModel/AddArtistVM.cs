@@ -1,5 +1,6 @@
 ﻿using Page_Navigation_App.Utilities;
 using System;
+using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
@@ -24,31 +25,6 @@ namespace Page_Navigation_App.ViewModel
                     // чтобы обновить состояние CanSaveArtist
                     OnPropertyChanged(nameof(CanSaveArtist));
                 }
-            }
-        }
-
-        public RelayCommand SaveArtistCommand
-        {
-            get
-            {
-                if (_saveArtistCommand == null)
-                {
-                    _saveArtistCommand = new RelayCommand(async param => await SaveArtistAsync(), param => CanSaveArtist());
-                }
-                return _saveArtistCommand;
-            }
-        }
-
-        public async Task SaveArtistAsync()
-        {
-            if (CanSaveArtist())
-            {
-                // Имитация асинхронной операции сохранения
-                
-                await Task.Delay(1);
-                
-                // Опционально: после успешного сохранения можно вызвать событие
-                ArtistAdded?.Invoke(this, EventArgs.Empty);
             }
         }
 

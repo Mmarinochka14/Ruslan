@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Pozdn\\.nuget\\packages\\": {}
+    "C:\\Users\\4745349\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\курсовая\\hi-newww (1)\\hi-newww\\Page Navigation App\\Page Navigation App\\Page Navigation App.csproj",
+      "projectUniqueName": "C:\\Learning\\Marina\\Ruslan\\пупуп\\Page Navigation App\\Page Navigation App\\Page Navigation App.csproj",
       "projectName": "Page Navigation App",
-      "projectPath": "D:\\курсовая\\hi-newww (1)\\hi-newww\\Page Navigation App\\Page Navigation App\\Page Navigation App.csproj",
-      "packagesPath": "C:\\Users\\Pozdn\\.nuget\\packages\\",
-      "outputPath": "D:\\курсовая\\hi-newww (1)\\hi-newww\\Page Navigation App\\Page Navigation App\\obj\\",
+      "projectPath": "C:\\Learning\\Marina\\Ruslan\\пупуп\\Page Navigation App\\Page Navigation App\\Page Navigation App.csproj",
+      "packagesPath": "C:\\Users\\4745349\\.nuget\\packages\\",
+      "outputPath": "C:\\Learning\\Marina\\Ruslan\\пупуп\\Page Navigation App\\Page Navigation App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Pozdn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\4745349\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.417\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

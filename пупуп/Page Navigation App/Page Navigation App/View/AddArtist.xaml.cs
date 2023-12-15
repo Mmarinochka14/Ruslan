@@ -3,12 +3,14 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Text;
 using System.Windows.Forms;
+using System.Linq;
 
 namespace Page_Navigation_App.View
 {
     public partial class AddArtist : System.Windows.Controls.UserControl
     {
         private readonly AddArtistVM viewModel;
+        public Artist[] artists = new Artist[1];
 
         public AddArtist()
         {
@@ -36,13 +38,11 @@ namespace Page_Navigation_App.View
             };
 
             viewModel.Artist = newArtist;
-
-            await viewModel.SaveArtistAsync();
+            artists.Append(newArtist);
         }
 
         private void ViewModel_ArtistAdded(object sender, System.EventArgs e)
         {
-            Artists artists = new Artists();
             Content = artists;
         }
 
@@ -60,7 +60,6 @@ namespace Page_Navigation_App.View
             if (checkNum == false)
             {
                 e.Handled = true;
-
             }
         }
     }
